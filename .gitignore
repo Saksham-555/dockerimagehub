@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pytest_cache/
+
+# virtual environment
+.venv/
+env/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# pip / packaging
+pip-wheel-metadata/
+build/
+dist/
+
+# Docker / logs
+*.log
+.env
